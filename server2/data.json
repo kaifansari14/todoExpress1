@@ -1,0 +1,13 @@
+[   
+    {
+    "fullName": "abdullah",
+    "age": 20,
+    "isAlive": true
+    },
+    {
+        "fullName": "kaif",
+        "age": 20,
+        "isAlive": true
+    }
+
+]
